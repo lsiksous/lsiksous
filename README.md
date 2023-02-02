@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lsiksous
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning time series prediction
+- 🌱 I’m currently learning intermittent time series forcasting
 
 <!---
 lsiksous/lsiksous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
